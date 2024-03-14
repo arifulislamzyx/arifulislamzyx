@@ -1,5 +1,5 @@
 ### Hi! I'm Md. Ariful Islam 👋
-Hello, and greetings! 🌟 My name is Ariful Islam, and I'm delighted to introduce myself as a seasoned Professional Web Developer specializing in JavaScript programming, particularly with Next.js. With a solid educational foundation from Railly Bangabandhu College, where I studied Management, I've seamlessly transitioned into the world of web development, driven by my passion for programming.
+Hello, and greetings! 🌟 My name is Ariful Islam, and I'm delighted to introduce myself as a seasoned Professional Web Developer specializing in JavaScript programming, particularly with Next.js. With a solid educational foundation from Railly Programming Hero, I've seamlessly transitioned into the world of web development, driven by my passion for programming.
 
 Web development isn't just my profession; it's my calling. I thrive on the creative challenges that come with crafting stunning websites from scratch using technologies like Next.js. Whether it's breathing life into a design concept or troubleshooting intricate coding issues, I approach each project with enthusiasm and a keen eye for detail.
 

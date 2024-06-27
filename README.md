@@ -24,7 +24,6 @@ Ready to embark on this exciting journey? Get in touch with me today, and let's 
 - Node.js
 - GrapgQl
 - Sanity
-- WebSocket
 
 I can do the above tasks correctly
 

@@ -31,10 +31,10 @@ I can do the above tasks correctly
 
 ### Completed Projects
 
-- *[E-commerce Application (Laravel 9.x)](https://mitnog.vercel.app/)*
-- *[Restaurent Web Application (Laravel 9.x)](https://https://restaurent-next.vercel.app//)*
-- *[Job Market (Laravel 9.x)](https://https://skbjobmarket.com//)*
-- *[Job Market (Laravel 9.x)](https://https://enrichitsolutions.com//)*
+- *[E-commerce Application ()](https://mitnog.vercel.app/)*
+- *[Restaurent Web Application ()](https://https://restaurent-next.vercel.app//)*
+- *[Job Market ()](https://https://skbjobmarket.com//)*
+- *[Job Market ()](https://https://enrichitsolutions.com//)*
 
 
 ## Contact me

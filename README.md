@@ -18,12 +18,14 @@ Ready to embark on this exciting journey? Get in touch with me today, and let's 
 - Tailwind
 - Bootstrap
 - JavaScript
+- Typescript
 - Next.js
 - React
 - redux
 - Node.js
 - GrapgQl
 - Sanity
+- Framer Motion
 
 I can do the above tasks correctly
 
@@ -32,6 +34,7 @@ I can do the above tasks correctly
 - *[E-commerce Application (Laravel 9.x)](https://mitnog.vercel.app/)*
 - *[Restaurent Web Application (Laravel 9.x)](https://https://restaurent-next.vercel.app//)*
 - *[Job Market (Laravel 9.x)](https://https://skbjobmarket.com//)*
+- *[Job Market (Laravel 9.x)](https://https://enrichitsolutions.com//)*
 
 
 ## Contact me

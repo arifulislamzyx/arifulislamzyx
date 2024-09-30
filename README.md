@@ -34,7 +34,7 @@ I can do the above tasks correctly
 - *[E-commerce Application ](https://mitnog.vercel.app/)*
 - *[Restaurent Web Application ](https://https://restaurent-next.vercel.app//)*
 - *[Job Market ](https://https://skbjobmarket.com//)*
-- *[Job Market ](https://https://enrichitsolutions.com//)*
+- *[Enrich IT Solutions ](https://https://enrichitsolutions.com//)*
 
 
 ## Contact me

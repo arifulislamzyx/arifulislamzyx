@@ -23,7 +23,7 @@ Ready to embark on this exciting journey? Get in touch with me today, and let's 
 - React
 - redux
 - Node.js
-- GrapgQl
+- GrapHQl
 - Sanity
 - Framer Motion
 

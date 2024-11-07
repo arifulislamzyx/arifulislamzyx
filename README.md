@@ -13,10 +13,8 @@ If you're seeking a developer who’s not just technically skilled but passionat
 | Tanstack Query        | Axios                        | Postman, ESLint, Prettier   |
 
 
-I can do the above tasks correctly
 
 ### Completed Projects
-
 
 - *[Job Market ](https://https://skbjobmarket.com//)*
 - Project for Enrich IT Solutions — A scalable job portal built with Next.js, TypeScript, and Tailwind CSS
